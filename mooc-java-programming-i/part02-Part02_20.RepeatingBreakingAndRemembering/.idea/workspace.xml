@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="841eb93d-1ea9-4fce-b2c8-86e3c8728b30" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YNTSLQ8YTwzJbpdZzkbsgHJv5J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RepeatingBreakingAndRemembering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RepeatingBreakingAndRemembering" />
+      <module name="Part02_20.RepeatingBreakingAndRemembering" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RepeatingBreakingAndRemembering" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="841eb93d-1ea9-4fce-b2c8-86e3c8728b30" name="Default Changelist" comment="" />
+      <created>1582782050884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582782050884</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1582842254756">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1582842254756" />
+    <state width="1398" height="207" key="GridCell.Tab.0.center" timestamp="1582842254755">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1582842254755" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left" timestamp="1582842254754">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1582842254754" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right" timestamp="1582842254755">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1582842254755" />
+    <state x="221" y="65" key="SettingsEditor" timestamp="1582841867183">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="221" y="65" key="SettingsEditor/0.23.1440.806@0.23.1440.806" timestamp="1582841867183" />
+  </component>
+</project>

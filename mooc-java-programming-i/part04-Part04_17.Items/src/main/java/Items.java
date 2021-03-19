@@ -1,0 +1,26 @@
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class Items {
+
+    public static void main(String[] args) {
+        // implement here your program that uses the class Item
+
+        ArrayList<Item> items = new ArrayList<>();
+        Scanner in = new Scanner(System.in);
+        while (true){
+            System.out.println("Name:");
+            String name=in.nextLine();
+            if (name.isEmpty()){
+                break;
+            }
+            items.add(new Item(name));
+        }
+        for (Item item:items){
+            System.out.println(item);
+
+        }
+
+    }
+}

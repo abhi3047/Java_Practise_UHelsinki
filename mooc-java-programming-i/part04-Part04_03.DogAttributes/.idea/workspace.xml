@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e21e4c2-a6e8-46e6-af38-e84eaf7a8ecb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YbT3raiNa62XnWpfRzLELnG2N4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Smart Tomcat.Unnamed (1)">
+    <configuration name="Unnamed (1)" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="adminPort" value="8005" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="contextPath" value="" />
+      <option name="customContext" value="" />
+      <option name="docBase" value="" />
+      <option name="envOptions">
+        <map />
+      </option>
+      <option name="moduleName" />
+      <option name="passParentEnvironmentVariables" value="true" />
+      <option name="port" value="8080" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 8.5.51" />
+          <option name="number" value="0" />
+          <option name="path" value="$USER_HOME$/Documents/personal/Learnings/SpringHibernate_Chady/jsp-for-beginners/apache-tomcat-8.5.51" />
+          <option name="version" value="8.5.51.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="adminPort" value="8005" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="contextPath" value="" />
+      <option name="customContext" value="" />
+      <option name="docBase" value="" />
+      <option name="envOptions">
+        <map />
+      </option>
+      <option name="moduleName" />
+      <option name="passParentEnvironmentVariables" value="true" />
+      <option name="port" value="8080" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 8.5.51" />
+          <option name="number" value="0" />
+          <option name="path" value="$USER_HOME$/Documents/personal/Learnings/SpringHibernate_Chady/jsp-for-beginners/apache-tomcat-8.5.51" />
+          <option name="version" value="8.5.51.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Smart Tomcat.Unnamed (1)" />
+      <item itemvalue="Smart Tomcat.Unnamed" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e21e4c2-a6e8-46e6-af38-e84eaf7a8ecb" name="Default Changelist" comment="" />
+      <created>1583210097769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583210097769</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="507" y="234" key="#BuildArtifactsBeforeRunChooser" timestamp="1583217806746">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="507" y="234" key="#BuildArtifactsBeforeRunChooser/0.23.1440.801@0.23.1440.801" timestamp="1583217806746" />
+    <state x="184" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583217832768">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="184" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.801@0.23.1440.801" timestamp="1583217832768" />
+    <state x="221" y="61" key="SettingsEditor" timestamp="1583217740246">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="221" y="61" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1583217740246" />
+  </component>
+</project>

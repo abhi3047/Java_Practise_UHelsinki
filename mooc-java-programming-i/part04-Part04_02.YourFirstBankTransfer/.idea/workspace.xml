@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbf96a24-f260-4089-9915-838365775edb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YbPdJiee9kYX9eCr9iesddNjTC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.YourFirstBankTransfer">
+    <configuration name="YourFirstBankTransfer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YourFirstBankTransfer" />
+      <module name="Part04_02.YourFirstBankTransfer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChadUdemy" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="adminPort" value="8005" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="contextPath" value="" />
+      <option name="customContext" value="" />
+      <option name="docBase" value="" />
+      <option name="envOptions" />
+      <option name="moduleName" />
+      <option name="passParentEnvironmentVariables" value="true" />
+      <option name="port" value="8080" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 8.5.51" />
+          <option name="number" value="0" />
+          <option name="path" value="$USER_HOME$/Documents/personal/Learnings/SpringHibernate_Chady/jsp-for-beginners/apache-tomcat-8.5.51" />
+          <option name="version" value="8.5.51.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.YourFirstBankTransfer" />
+      <item itemvalue="Smart Tomcat.ChadUdemy" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.YourFirstBankTransfer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbf96a24-f260-4089-9915-838365775edb" name="Default Changelist" comment="" />
+      <created>1583208406452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583208406452</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="87" key="#Servers" timestamp="1583216432691">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="320" y="87" key="#Servers/0.23.1440.801@0.23.1440.801" timestamp="1583216432691" />
+    <state x="184" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583216690691">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="184" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.801@0.23.1440.801" timestamp="1583216690691" />
+    <state x="483" y="259" key="#com.intellij.tools.ToolEditorDialog" timestamp="1583216654819">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="483" y="259" key="#com.intellij.tools.ToolEditorDialog/0.23.1440.801@0.23.1440.801" timestamp="1583216654819" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1583277988077">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1583210097917" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1583277988077" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center" timestamp="1583277988076">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1583210097915" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1583277988076" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left" timestamp="1583277988076">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1583210097914" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1583277988076" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right" timestamp="1583277988077">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1583210097916" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1583277988077" />
+    <state x="221" y="61" key="SettingsEditor" timestamp="1583216600079">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="221" y="61" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1583216600079" />
+    <state x="613" y="164" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1583216655911">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="613" y="164" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.23.1440.801@0.23.1440.801" timestamp="1583216655911" />
+    <state x="97" y="44" key="new project wizard" timestamp="1583216905377">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="97" y="44" key="new project wizard/0.23.1440.801@0.23.1440.801" timestamp="1583216905377" />
+  </component>
+</project>

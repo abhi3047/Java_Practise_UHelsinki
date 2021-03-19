@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3d36761-4d8e-4bcd-95d1-d94491761b14" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hrKGmxVpu6fkcoxqEFvZC2oPtj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="validating.Main" />
+      <module name="Part11_11.ValidatingParameters" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="validating.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3d36761-4d8e-4bcd-95d1-d94491761b14" name="Default Changelist" comment="" />
+      <created>1600763677921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600763677921</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom" timestamp="1600840544970">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.23.1440.801/877.-1057.2048.1057@0.23.1440.801" timestamp="1600840544970" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center" timestamp="1600840544969">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.23.1440.801/877.-1057.2048.1057@0.23.1440.801" timestamp="1600840544969" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left" timestamp="1600840544968">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.23.1440.801/877.-1057.2048.1057@0.23.1440.801" timestamp="1600840544968" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right" timestamp="1600840544969">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.23.1440.801/877.-1057.2048.1057@0.23.1440.801" timestamp="1600840544969" />
+    <state x="100" y="123" width="1240" height="601" key="dock-window-1" timestamp="1600763733719">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="100" y="123" width="1240" height="601" key="dock-window-1/0.23.1440.801/877.-1057.2048.1057@0.23.1440.801" timestamp="1600763733719" />
+    <state x="100" y="123" width="1240" height="601" key="dock-window-2" timestamp="1600763733720">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="100" y="123" width="1240" height="601" key="dock-window-2/0.23.1440.801/877.-1057.2048.1057@0.23.1440.801" timestamp="1600763733720" />
+  </component>
+</project>
